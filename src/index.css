@@ -1,0 +1,27 @@
+.body_content{
+    padding: 50px 200px;
+}
+.cards{
+    display: grid;
+    grid-template-columns: 88% 11%;
+    margin: 15px 0px;
+}
+.cart_body{
+    height: 450px;
+    overflow-y: scroll;
+}
+.card-body{
+    padding: 0.75rem  !important;
+}
+.card-header {
+    padding: .50rem  .50rem;
+}
+.icons{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 42px 10px;
+    justify-content: center;
+}
+.icon{
+    font-size: 23px;
+}
